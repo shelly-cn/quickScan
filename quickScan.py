@@ -199,7 +199,7 @@ def main():
     print "\t\t|______| | |       | | |  |             |  |"
     print "\t\t| |      | |_______| | |  |             |  |"
     print "\t\t| |      |___________| |__|             |__|"
-    print "\t\t|_|                        power by qian Min Tech\n\n"
+    print "\t\t|_|                                      \n\n"
     #异步并发模块，类似线程池
     try:
         with futures.ThreadPoolExecutor(thread) as executor:
